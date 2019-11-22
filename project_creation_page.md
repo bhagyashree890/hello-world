@@ -1,4 +1,4 @@
-Table of Contents
+# Table of Contents
 =================
  * 4.2 [Project Creation Page](#42-project-creation-page)
    * 4.2.1 [Description](#421-description)
