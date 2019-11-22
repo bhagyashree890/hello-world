@@ -1,19 +1,19 @@
 Table of Contents
 =================
 
-* 4.1 [Project Jobs Overview Page](#41-project-jobs-overview-page)
-  * 4.1.1 [Description](#411-description)
-  * 4.1.2 [Stimulus /Response Sequences](#412-stimulus-response-sequences)
-  * 4.1.3 [Functional Requirements](#413-functional-requirements)
-    * 4.1.3.1 [Search button](#4131-search-button)
-    * 4.1.3.2 [View all button](#4132-view-all-button)
-    * 4.1.3.3 [Delete button](#4133-delete-button)
-    * 4.1.3.4 [Create button](#4134-create-button)
-    * 4.1.3.5 [Pagination](#4135-pagination)
-    * 4.1.3.6 [Job template](#4136-job-template)
-    * 4.1.3.7 [Job list](#4137-job-list)
-    * 4.1.3.8 [View](#4138-view)
-    * 4.1.3.9 [Job id](#4139-job-id)
+* 4.1 [Project Jobs Overview Page](#41project-jobs-overview-page)
+  * 4.1.1 [Description](#411description)
+  * 4.1.2 [Stimulus /Response Sequences](#412stimulus-response-sequences)
+  * 4.1.3 [Functional Requirements](#413functional-requirements)
+    * 4.1.3.1 [Search button](#4131search-button)
+    * 4.1.3.2 [View all button](#4132view-all-button)
+    * 4.1.3.3 [Delete button](#4133delete-button)
+    * 4.1.3.4 [Create button](#4134create-button)
+    * 4.1.3.5 [Pagination](#4135pagination)
+    * 4.1.3.6 [Job template](#4136job-template)
+    * 4.1.3.7 [Job list](#4137job-list)
+    * 4.1.3.8 [View](#4138view)
+    * 4.1.3.9 [Job id](#4139job-id)
 
 ## 4.1 Project Jobs Overview Page
 ### 4.1.1	Description
