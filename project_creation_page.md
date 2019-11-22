@@ -10,7 +10,7 @@ Table of Contents
      * 4.2.3.4 [View button](#4234-view-button)
      * 4.2.3.5 [Clear button](#4235-clear-button)
      * 4.2.3.6 [Copy project config button](#4236-copy-project-config-button)
-     * 4.2.3.7 [Paste project config button](#4237-paste-project-config-button)
+     * 4.2.3.7 [Paste project config button](#paste-project-config-button)
 
 ## 4.2	Project Creation Page
 ### 4.2.1	Description
