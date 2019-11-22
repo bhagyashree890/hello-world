@@ -1,9 +1,9 @@
 Table of Contents
 =================
- * 4.2 [Project Creation Page](##42-project-creation-page)
-   * 4.2.1 [Description](###421-description)
-   * 4.2.2 [Stimulus/Response Sequences](###422-stimulus-response-sequences)
-   * 4.2.3 [Functional Requirements](###423-functional-requirements)
+ * 4.2 [Project Creation Page](#42-project-creation-page)
+   * 4.2.1 [Description](#421-description)
+   * 4.2.2 [Stimulus/Response Sequences](#422-stimulus-response-sequences)
+   * 4.2.3 [Functional Requirements](#423-functional-requirements)
      * 4.2.3.1 [Create Project button](#4231-create-project-button)
      * 4.2.3.2 [Create Job Template button](#4232-create-job-template-button)
      * 4.2.3.3 [Create Stage button](#4233-create-stage-button)
