@@ -2,7 +2,7 @@ Table of Contents
 =================
 
 * 4.1 [Project Jobs Overview Page](#41project-jobs-overview-page)
-  * 4.1.1 [Description](#411description)
+  * 4.1.1 [Description](#411-description)
   * 4.1.2 [Stimulus /Response Sequences](#412stimulus-response-sequences)
   * 4.1.3 [Functional Requirements](#413functional-requirements)
     * 4.1.3.1 [Search button](#4131search-button)
