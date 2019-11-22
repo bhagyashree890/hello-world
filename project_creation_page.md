@@ -1,16 +1,16 @@
 Table of Contents
 =================
- * 4.2 [Project Creation Page](#42-project-creation-page)
-   * 4.2.1 [Description](#421-description)
-   * 4.2.2 [Stimulus/Response Sequences](#422-stimulus-response-sequences)
-   * 4.2.3 [Functional Requirements](#423-functional-requirements)
-     * 4.2.3.1 [Create Project button](#4231-create-project-button)
-     * 4.2.3.2 [Create Job Template button](#4232-create-job-template-button)
-     * 4.2.3.3 [Create Stage button](#4233-create-stage-button)
-     * 4.2.3.4 [View button](#4234-view-button)
-     * 4.2.3.5 [Clear button](#4235-clear-button)
-     * 4.2.3.6 [Copy project config button](#4236-copy-project-config-button)
-     * 4.2.3.7 [Paste project config button](#4237-paste-project-config-button)
+ * 4.2 [Project Creation Page](#42project-creation-page)
+   * 4.2.1 [Description](#421description)
+   * 4.2.2 [Stimulus/Response Sequences](#422stimulus-response-sequences)
+   * 4.2.3 [Functional Requirements](#423functional-requirements)
+     * 4.2.3.1 [Create Project button](#4231create-project-button)
+     * 4.2.3.2 [Create Job Template button](#4232create-job-template-button)
+     * 4.2.3.3 [Create Stage button](#4233create-stage-button)
+     * 4.2.3.4 [View button](#4234view-button)
+     * 4.2.3.5 [Clear button](#4235clear-button)
+     * 4.2.3.6 [Copy project config button](#4236copy-project-config-button)
+     * 4.2.3.7 [Paste project config button](#4237paste-project-config-button)
 
 ## 4.2	Project Creation Page
 ### 4.2.1	Description
